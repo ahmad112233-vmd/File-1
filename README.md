@@ -1,2 +1,6 @@
-Console.WriteLine("Muhammad Ahmad");
-console.writeLine("24-ST-27");
+Console.WriteLine("2 nd semester subject");
+Console.WriteLine("oop");
+Console.WriteLine("islamiyat");
+Console.WriteLine("TQ");
+Console.WriteLine("SFCM");
+Console.WriteLine("IT");
