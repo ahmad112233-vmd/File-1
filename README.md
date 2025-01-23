@@ -1,2 +1,11 @@
-Console.WriteLine("Muhammad Ahmad");
-console.writeLine("24-ST-27");
+console.writeLine("fsc subjects");
+console.writeLine("English");
+console.writeLine("urdu");
+console.writeLine("math");
+console.writeLine("physics ");
+console.writeLine("computer ");
+
+
+
+
+
