@@ -1,0 +1,5 @@
+console.writeLine("fsc subjects"); 
+console.writeLine("English");
+console.writeLine("urdu");
+console.writeLine("math"); 
+console.writeLine("computer ");
